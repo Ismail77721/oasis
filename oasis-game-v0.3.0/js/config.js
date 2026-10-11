@@ -1,0 +1,1 @@
+window.OASIS_CONFIG={version:"0.3.0",storageKey:"oasis_save_v1",worldSize:10,dayMinutes:15,nightMinutes:5,maxWater:10,crops:{watermelon:{title:"Арбуз",growSeconds:45,yield:3,seedCost:5,waterCost:1,sellPrice:4,color:0x36934a,ripeColor:0x8acb4a},clover:{title:"Клевер",growSeconds:25,yield:2,seedCost:3,waterCost:1,sellPrice:2,color:0x4c9845,ripeColor:0x9cce58}}};
